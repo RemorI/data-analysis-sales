@@ -57,16 +57,16 @@ Finally, the last table connected to 'delivery_dim.csv' is **'destination_dim.cs
 Note: Normally, this more specific data would not be separated from the delivery or the customer, but since we do not have it, it is more likely that there will be repeated data, and this will be tested.
 
 ### Data analysis
-Nuestro principal objetivo es elevar las ventas, para esto es fundamental conocer y analizar una variedad de datos clave que pueden proporcionar información valiosa sobre el rendimiento de las ventas y las oportunidades de mejora.<br>
-1. Análisis en ventas:
-    - Ventas totales
-    - Ventas a través del tiempo
-    - Ventas por producto
-    - Ventas por categoría
-2. Análisis en cantidades de ventas:
-    - Cantidad de ventas a través del tiempo
-    - Cantidad de ventas por país
-    - Cantidad de ventas por categoría
-3. Análisis miceláneo
-    - Métodos de envío
-    - Segmentación del mercado
+Our main goal is to increase sales, and to achieve this, it is essential to understand and analyze a variety of key data that can provide valuable insights into sales performance and improvement opportunities.<br>
+1. Sales Analysis:
+    - Total sales
+    - Sales over time
+    - Sales by product
+    - Sales by category
+2. Sales Quantities Analysis:
+    - Quantity of sales over time
+    - Quantity of sales by country
+    - Quantity of sales by category
+3. Micellaneous Analysis:
+    - Shipping methods
+    - Market Segmentation
