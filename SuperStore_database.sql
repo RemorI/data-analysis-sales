@@ -28,14 +28,3 @@ FROM order_dim o
     LEFT JOIN product_dim p ON o.Product_ID = p.Product_ID
     LEFT JOIN customer_dim c ON o.Customer_ID = c.Customer_ID
     LEFT JOIN destination_dim n ON d.Destination_ID = n.Destination_ID
-    
-    
-    
-
-
-
- 
-
-
-
-
